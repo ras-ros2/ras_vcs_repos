@@ -2,12 +2,13 @@ repositories:
   ras_core_pkgs:
     type: git
     url: https://github.com/ras-ros2/ras_core_pkgs.git
-    version: dev
+    version: reorg
   ras_sim:
     type: git
     url: https://github.com/ras-ros2/ras_sim.git
-    version: dev
+    version: reorg
   ras_bt_framework:
     type: git
     url: https://github.com/ras-ros2/ras_bt_framework.git
-    version: dev
+    version: btf2
+

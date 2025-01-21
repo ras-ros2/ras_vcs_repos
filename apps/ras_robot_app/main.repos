@@ -2,5 +2,5 @@ repositories:
   ras_robot_app:
     type: git
     url: https://github.com/ras-ros2/ras_sim_lab.git
-    version: dev
+    version: reorg
     recursive_update: true
