@@ -1,0 +1,5 @@
+repositories:
+    ras_webapp:
+        type: git
+        url: https://github.com/ras-ros2/ras_webapp.git
+        version: main
