@@ -2,4 +2,4 @@ repositories:
     ros2_ws/src/ras_perception:
         type: git
         url: https://github.com/ras-ros2/ras_perception.git
-        version: main
+        version: dev
