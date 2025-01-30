@@ -2,4 +2,4 @@ repositories:
     ras_docker:
         type: git
         url: https://github.com/ras-ros2/ras_docker.git
-        version: reorg
+        version: feature/joint_state
