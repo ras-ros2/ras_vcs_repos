@@ -2,7 +2,7 @@ repositories:
   ras_core_pkgs:
     type: git
     url: https://github.com/ras-ros2/ras_core_pkgs.git
-    version: reorg
+    version: modular_real
   ras_sim:
     type: git
     url: https://github.com/ras-ros2/ras_sim.git
